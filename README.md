@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhartik021" target="blank"><img src="https://img.shields.io/twitter/follow/bhartik021?logo=twitter&style=for-the-badge" alt="bhartik021" /></a> </p>
 
-- 🔭 I’m currently working on **Covid-19 Tracker App**
+- 🔭 I’m currently working on **Full Stack MERN E-Commerce Web Application**
 
 - 📫 How to reach me **bhartik021@gmail.com**
 
