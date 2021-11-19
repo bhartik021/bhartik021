@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharti Kumari</h1>
-<h3 align="center">I am a Hardworking engineering diploma holder specialized in Computer Science Engineering. Right now I'm working as a Technical Content Writer in Geek for Geeks.</h3>
+<h3 align="center">I have done engineering diploma specialized in Computer Science Engineering. Right now I'm working as a Technical Content Writer at Scaler(By InterviewBit) and GeeksforGeeks</h3>
 
 <p align="left"> <a href="https://twitter.com/bhartik021" target="blank"><img src="https://img.shields.io/twitter/follow/bhartik021?logo=twitter&style=for-the-badge" alt="bhartik021" /></a> </p>
 
