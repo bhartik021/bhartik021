@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharti Kumari</h1>
-<h3 align="center">I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.
-</h3>
 
 ![Black Technology Blog Banner](https://user-images.githubusercontent.com/75694208/149078012-9fdadd66-842a-4489-956b-f57bb994e47a.png)
 
-- ⚡ Fun fact **I think I am funny**
+I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.
  
 ## Get in touch :coffee:
 
@@ -14,6 +12,8 @@
   <a target="_blank"href="https://www.twitter.com/bhartik021"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.facebook.com/profile.php?id=100063770136832"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@bhartik021"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a  href="https://www.instagram.com/bhartik021/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
 </p>
 
 ## Languages and Tools:
@@ -21,8 +21,16 @@
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
  
 ## GitHub Stats:
+ 
+<table>
+  <tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=bhartik021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bharti Kumari" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhartik021&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bharti Kumari" /></td>
+  </tr>
+</table>
 
-<a href="https://github.com/bhartik021">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhartik021&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartik021&theme=dark&layout=compact" />
-</a>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=dark" alt="Bharti Kumari" /></p>
+  </div>
+  
+ [![bhartik021's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bhartik021&theme=xcode)](https://git.io/bhartik021)
