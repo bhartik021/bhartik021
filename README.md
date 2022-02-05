@@ -1,4 +1,4 @@
-![CreateRemote Twitter Banners (Community)](https://user-images.githubusercontent.com/75694208/152639169-133b959e-c4f8-4f0f-90b9-f7909071b62b.png)
+![CreateRemote Twitter Banners (Community) (2)](https://user-images.githubusercontent.com/75694208/152639638-df73b903-4680-45be-b782-38282307e2cd.png)
 
 <h1 align="left">Hi 👋, I'm Bharti Kumari</h1>
 
