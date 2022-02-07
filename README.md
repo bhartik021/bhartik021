@@ -1,5 +1,7 @@
 ![CreateRemote Twitter Banners (Community) (2)](https://user-images.githubusercontent.com/75694208/152639638-df73b903-4680-45be-b782-38282307e2cd.png)
 
+![](https://komarev.com/ghpvc/?username=bhartik021&color=blueviolet)
+
 <h1 align="left">Hi 👋, I'm Bharti Kumari</h1>
 
 <b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b>
