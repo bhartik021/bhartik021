@@ -29,9 +29,11 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhartik021&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bharti Kumari" /></td>
   </tr>
 </table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=dark" alt="Bharti Kumari" /></p>
-  </div>
+ 
+ <div>
+<h3 align="center"> 📈 My Streak Stats: </h3>
+<p align ="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
+ </div>
   
  [![bhartik021's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bhartik021&theme=xcode)](https://git.io/bhartik021)
