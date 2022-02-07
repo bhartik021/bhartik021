@@ -39,7 +39,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
  
  
-## GitHub Stats:
+## GitHub Streak and Stats:
  
 <table>
   <tr>
@@ -49,7 +49,6 @@
 </table>
  
  <div>
-<h3 align="center"> 📈 My Streak Stats: </h3>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
  </div>
