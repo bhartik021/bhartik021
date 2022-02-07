@@ -58,18 +58,18 @@ Here are some ideas to get you started:
  
  
 ### GitHub Streak🔥 and Stats 📊
- 
-<table>
-  <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=bhartik021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bharti Kumari" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhartik021&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bharti Kumari" /></td>
-  </tr>
-</table>
- 
- <div>
+<p align="center">
+<a href="https://github.com/bhartik021">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhartik021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhartik021&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> 
+
+<div>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
- </div>
+</p>
+</div>
   
 ### Recent GitHub Activity ⚡
 <a href="https://github.com/bhartik021"><img alt="Bharti Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhartik021&custom_title=Bharti's%20Contribution%20Graph&theme=react-dark" /></a>
