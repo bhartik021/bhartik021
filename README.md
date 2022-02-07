@@ -2,11 +2,29 @@
 
 ![](https://komarev.com/ghpvc/?username=bhartik021&color=blueviolet)
 
-<h1 align="left">Hi 👋, I'm Bharti Kumari</h1>
+<h1 align="left">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"> I'm Bharti Kumari</h1>
 
+<p>
+<img align="right" width=240px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b>
+</p> 
+
+<!--
+**Bharti/bhartik021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
  
-## Get in touch :coffee:
+### Get in touch :coffee:
 
 <p align="left">
  <a href="mailto:bhartik021@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +36,7 @@
    </a>
 </p>
 
-## Languages and Tools:
+### Languages and Tools 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,13 +51,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## Coding Profiles:
+### Coding Profiles:
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
  
  
-## GitHub Streak and Stats:
+### GitHub Streak🔥 and Stats 📊
  
 <table>
   <tr>
@@ -53,4 +71,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
  </div>
   
- [![bhartik021's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bhartik021&theme=xcode)](https://git.io/bhartik021)
+### Recent GitHub Activity ⚡
+<a href="https://github.com/bhartik021"><img alt="Bharti Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhartik021&custom_title=Bharti's%20Contribution%20Graph&theme=react-dark" /></a>
