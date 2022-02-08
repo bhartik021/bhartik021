@@ -5,7 +5,7 @@
 <h1 align="left">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"> I'm Bharti Kumari</h1>
 
 <p>
-<img align="right" width=200px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=150px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b>
 </p> 
 
@@ -58,12 +58,14 @@ Here are some ideas to get you started:
  
  
 ### GitHub Streak🔥 and Stats 📊
+<div>
 <p align="center">
 <a href="https://github.com/bhartik021">
 <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhartik021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhartik021&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> 
+</div> 
 
 <div>
 <p align ="center">
