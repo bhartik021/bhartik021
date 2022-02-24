@@ -6,7 +6,7 @@
 
 <p>
 <img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b>
+<h3><b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b></h3>
 </p> 
 
 <!--
