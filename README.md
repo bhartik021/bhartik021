@@ -13,7 +13,10 @@ const aboutMe = {
 };
 ```
 
-![](https://komarev.com/ghpvc/?username=bhartik021&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=bhartik021&color=green)
+[![Twitter: bhartik021](https://img.shields.io/twitter/follow/bhartik021?style=social)](https://twitter.com/bhartik021)
+[![Linkedin: bhartik021](https://img.shields.io/badge/-bhartik021-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhartik021/)](https://www.linkedin.com/in/bhartik021/)
+[![GitHub bhartik021](https://img.shields.io/github/followers/bhartik021?label=follow&style=social)](https://github.com/bhartik021)
 
 <!--
 **Bharti/bhartik021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
