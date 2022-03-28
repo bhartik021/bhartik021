@@ -1,13 +1,19 @@
-![CreateRemote Twitter Banners (Community) (2)](https://user-images.githubusercontent.com/75694208/152639638-df73b903-4680-45be-b782-38282307e2cd.png)
-
-![](https://komarev.com/ghpvc/?username=bhartik021&color=blueviolet)
-
 <h1 align="left">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"> I'm Bharti Kumari</h1>
 
-<p>
-<!--<img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />-->
-<h3><b>I am a hard-working engineering Undergraduate in Electronics and Communication Engineering at RTU, Kota. I am a Technical Content Writer Intern at GeeksForGeeks. and Freelancer at Scaler (By InterviewBit). I have done engineering diploma (Polytechnic) specialized in Computer Science and Engineering.</b></h3>
-</p> 
+```javascript
+const aboutMe = {
+   pronouns: "She" || "her",
+   bio: "I'm an engineering undergrad student. My expertise lies in the web development domain and I love creative writing.",
+   location: "Kota", 
+   
+   technologies: {
+        languages: ["JavaScript", "C", "C++"],
+        frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "Bootstrap"],
+   
+};
+```
+
+![](https://komarev.com/ghpvc/?username=bhartik021&color=blueviolet)
 
 <!--
 **Bharti/bhartik021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
