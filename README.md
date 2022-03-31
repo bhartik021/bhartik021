@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "She" || "her",
-   bio: "I'm an engineering undergrad student specialized in electronics and eommunication engineering. My expertise lies in the web development domain and I love creative writing.",
+   bio: "I'm an engineering undergrad student specialized in electronics and eommunication engineering.",
    location: "Kota", 
    
    technologies: {
