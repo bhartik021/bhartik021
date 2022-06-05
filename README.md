@@ -21,21 +21,13 @@ const aboutMe = {
 [![Linkedin: bhartik021](https://img.shields.io/badge/-bhartik021-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhartik021/)](https://www.linkedin.com/in/bhartik021/)
 [![GitHub bhartik021](https://img.shields.io/github/followers/bhartik021?label=follow&style=social)](https://github.com/bhartik021)
 
-<!--
-**Bharti/bhartik021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Top Females Drive | Opportunity Women in Tech](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
+- [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
 ### Get in touch :coffee:
 
 <p align="left">
