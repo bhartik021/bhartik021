@@ -1,26 +1,17 @@
 <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Software+Engineer;Blogger"/>
-    </div>
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Software+Engineer;Blogger"/>
+</div>
 
-```javascript
-const aboutMe = {
-   pronouns: "She" || "her",
-   bio: "I'm an engineering undergrad student specialized in electronics and eommunication engineering.",
-   location: "Kota", 
-   
-   technologies: {
-        languages: ["JavaScript", "C", "C++"],
-        frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "Bootstrap", "reactjs"],
-        tools: ["Git", "VS Code"],
-   
-};
-```
+
+<p align="center"> I'm an engineering undergrad student specialized in electronics and eommunication engineering. </p>
 
 ![](https://komarev.com/ghpvc/?username=bhartik021&color=green)
 [![Twitter: bhartik021](https://img.shields.io/twitter/follow/bhartik021?style=social)](https://twitter.com/bhartik021)
 [![Linkedin: bhartik021](https://img.shields.io/badge/-bhartik021-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhartik021/)](https://www.linkedin.com/in/bhartik021/)
 [![GitHub bhartik021](https://img.shields.io/github/followers/bhartik021?label=follow&style=social)](https://github.com/bhartik021)
-
+ 
+ 
+ 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Top Females Drive | Opportunity Women in Tech](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
@@ -46,7 +37,8 @@ const aboutMe = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
--->
+
+
 
 ### GitHub Streak🔥 and Stats 📊
 <div>
