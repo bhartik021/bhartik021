@@ -14,6 +14,7 @@
  
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
 - [Top Females Drive | Opportunity Women in Tech](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
