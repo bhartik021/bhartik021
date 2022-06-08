@@ -14,7 +14,6 @@
  <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 I am a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for GeeksforGeeks and Scaler(By InterviewBit) as a Technical Content Writer. I have done an engineering diploma (Polytechnic) with a focus on computer science and engineering.
-
 Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and front-end web development (ReactJS). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. ⚡
 
 
