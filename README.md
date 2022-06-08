@@ -99,6 +99,15 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </p>
 </div>
 
+### My Technical Articcles
+
+Check out some of my articles on Scaler Topics (in no particular order):
+
+| Hub           | Description | Link |
+| ------------- | ----------- | --- |
+| C Programming | Comments in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/comments-in-c/) |
+| C Programming | Operators in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/operators-in-c/) |
+| C Programming | If Statement in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/if-statement-in-c/) |
 
   
 ### Recent GitHub Activity ⚡
