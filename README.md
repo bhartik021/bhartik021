@@ -81,11 +81,24 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 </p> 
 </div> 
 
+## My Projects
+
+Check out some of my more interesting/stand-out github projects (in no particular order):
+
+| Project | Language/Tools/Sevices | Description | Link |
+| --- |:---:| --- | --- |
+| Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
+| News Zone | React, Alan AI, News-api | Developed a voice control news web app to listen and read news articles. | [Link](https://news-zone.000webhostapp.com/) |
+| Movie Hub | React, OMDb API | Movie Hub an application is capable of pulling movies names randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
+
+
 <div>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
 </p>
 </div>
+
+
   
 ### Recent GitHub Activity ⚡
 <a href="https://github.com/bhartik021"><img alt="Bharti Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhartik021&custom_title=Bharti's%20Contribution%20Graph&theme=react-dark" /></a>
