@@ -18,20 +18,13 @@ I am a dedicated engineering undergraduate majoring in Electronics and Communica
 Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and front-end web development (ReactJS). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. ⚡
 
 
-## Latest Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
 - [Top Females Drive | Opportunity Women in Tech](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
 
-
-## Get in touch :coffee:
-
-- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
-- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
-- Follow me on [Twitter](https://twitter.com/bhartik021)
-- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
 
 ### Languages and Tools 🛠️
 
@@ -71,6 +64,12 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 </tr>
 </table>
 
+## Get in touch :coffee:
+
+- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
+- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
+- Follow me on [Twitter](https://twitter.com/bhartik021)
+- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
 
 ### GitHub Streak🔥 and Stats 📊
 <div>
