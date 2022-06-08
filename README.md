@@ -63,12 +63,17 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 </tr>
 </table>
 
-## Get in touch :coffee:
+### My Projects
 
-- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
-- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
-- Follow me on [Twitter](https://twitter.com/bhartik021)
-- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
+Check out some of my more interesting/stand-out github projects (in no particular order):
+
+| Project | Language/Tools/Sevices | Description | Link |
+| --- |:---:| --- | --- |
+| Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
+| News Zone | React, Alan AI, News-api | Developed a voice control news web app to listen and read news articles. | [Link](https://news-zone.000webhostapp.com/) |
+| Movie Hub | React, OMDb API | Movie Hub an application is capable of pulling movies names randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
+
+
 
 ### GitHub Streak🔥 and Stats 📊
 <div>
@@ -80,15 +85,12 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 </p> 
 </div> 
 
-## My Projects
+## Get in touch :coffee:
 
-Check out some of my more interesting/stand-out github projects (in no particular order):
-
-| Project | Language/Tools/Sevices | Description | Link |
-| --- |:---:| --- | --- |
-| Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
-| News Zone | React, Alan AI, News-api | Developed a voice control news web app to listen and read news articles. | [Link](https://news-zone.000webhostapp.com/) |
-| Movie Hub | React, OMDb API | Movie Hub an application is capable of pulling movies names randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
+- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
+- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
+- Follow me on [Twitter](https://twitter.com/bhartik021)
+- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
 
 
 <div>
