@@ -89,11 +89,11 @@ Check out some of my more interesting/stand-out github projects (in no particula
 
 Check out some of my articles on Scaler Topics (in no particular order):
 
-| Hub           | Description | Link |
-| ------------- | ----------- | --- |
-| C Programming | Comments in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/comments-in-c/) |
-| C Programming | Operators in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/operators-in-c/) |
-| C Programming | If Statement in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/if-statement-in-c/) |
+| Platform     | Hub           | Description | Link |
+| -------------| ------------- | ----------- | --- |
+| Scaler       | C Programming | Comments in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/comments-in-c/) |
+| Scaler       | C Programming | Operators in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/operators-in-c/) |
+| Scaler       | C Programming | If Statement in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/if-statement-in-c/) |
 
 
 
