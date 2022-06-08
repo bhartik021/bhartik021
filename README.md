@@ -23,7 +23,7 @@
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
 - Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
 - Follow me on [Twitter](https://twitter.com/bhartik021)
-- Read Lates Blog on [Medium Blog](https://medium.com/@bhartik021)
+- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
 
 ### Languages and Tools 🛠️
 
