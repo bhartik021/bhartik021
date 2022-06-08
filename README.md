@@ -6,8 +6,6 @@
 <p align="center"> I'm an engineering undergrad student specialized in electronics and eommunication engineering. </p>
 
 ![](https://komarev.com/ghpvc/?username=bhartik021&color=green)
-[![Twitter: bhartik021](https://img.shields.io/twitter/follow/bhartik021?style=social)](https://twitter.com/bhartik021)
-[![Linkedin: bhartik021](https://img.shields.io/badge/-bhartik021-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhartik021/)](https://www.linkedin.com/in/bhartik021/)
 [![GitHub bhartik021](https://img.shields.io/github/followers/bhartik021?label=follow&style=social)](https://github.com/bhartik021)
  
  
@@ -20,14 +18,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### Get in touch :coffee:
+## Get in touch :coffee:
 
-<p align="left">
- <a href="mailto:bhartik021@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/bhartik021/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.twitter.com/bhartik021"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@bhartik021"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
+- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
+- Follow me on [Twitter](https://twitter.com/bhartik021)
+- Your story-teller on [Medium Blog](https://medium.com/@bhartik021)
 
 ### Languages and Tools 🛠️
 
