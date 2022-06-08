@@ -2,14 +2,22 @@
      <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Software+Engineer;Blogger"/>
 </div>
 
+<p align="center">
+   Technical Content Writer at GeeksforGeeks at Scaler (By InterviewBit)
+</p>   
 
-<p align="center"> I'm an engineering undergrad student specialized in electronics and eommunication engineering. </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
+ <img src="https://img.shields.io/github/followers/bhartik021?label=follow&style=social"/>
+</p>
+ 
+ <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-![](https://komarev.com/ghpvc/?username=bhartik021&color=green)
-[![GitHub bhartik021](https://img.shields.io/github/followers/bhartik021?label=follow&style=social)](https://github.com/bhartik021)
- 
- 
- 
+I am a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for GeeksforGeeks and Scaler(By InterviewBit) as a Technical Content Writer. I have done an engineering diploma (Polytechnic) with a focus on computer science and engineering.
+
+Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and front-end web development (ReactJS). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. ⚡
+
+
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
