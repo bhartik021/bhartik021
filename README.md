@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-   Technical Content Writer at GeeksforGeeks at Scaler (By InterviewBit)
+   Technical Content Writer at GeeksforGeeks and Scaler (By InterviewBit)
 </p>   
 
 <p align="center"> 
