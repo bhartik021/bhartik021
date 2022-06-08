@@ -85,21 +85,7 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </p> 
 </div> 
 
-## Get in touch :coffee:
-
-- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
-- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
-- Follow me on [Twitter](https://twitter.com/bhartik021)
-- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
-
-
-<div>
-<p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
-</p>
-</div>
-
-### My Technical Articcles
+### My Technical Articles
 
 Check out some of my articles on Scaler Topics (in no particular order):
 
@@ -108,6 +94,22 @@ Check out some of my articles on Scaler Topics (in no particular order):
 | C Programming | Comments in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/comments-in-c/) |
 | C Programming | Operators in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/operators-in-c/) |
 | C Programming | If Statement in C - Scaler Topics | [Link](https://www.scaler.com/topics/c/if-statement-in-c/) |
+
+
+
+<div>
+<p align ="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
+</p>
+</div>
+
+
+## Get in touch :coffee:
+
+- Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
+- Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
+- Follow me on [Twitter](https://twitter.com/bhartik021)
+- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
 
   
 ### Recent GitHub Activity ⚡
