@@ -30,7 +30,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 <table>
 <tr>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="60" width="60">
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="60">
