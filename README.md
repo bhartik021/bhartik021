@@ -30,7 +30,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 <table>
 <tr>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60">
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -47,18 +47,18 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 </tr>
 <tr>
     <td align='center'>
-       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/75694208/172817899-88ada0a5-aca7-496f-996e-05a610a93367.png" width="60">
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/75694208/172818360-a58681c2-2f26-4fd7-a2e8-1e223fd1540b.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="60">
     </td>
 </tr>
 </table>
