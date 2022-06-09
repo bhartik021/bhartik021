@@ -6,7 +6,7 @@
    Technical Content Writer at GeeksforGeeks and Scaler (By InterviewBit)
 </p>   
 
-<p align="center"> 
+<p align="center">  
  <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
  <img src="https://img.shields.io/github/followers/bhartik021?label=follow&style=social"/>
 </p>
