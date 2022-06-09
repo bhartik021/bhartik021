@@ -30,7 +30,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 <table>
 <tr>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -55,10 +55,10 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
         <img src="https://user-images.githubusercontent.com/75694208/172818360-a58681c2-2f26-4fd7-a2e8-1e223fd1540b.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"width="60">
+        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
     </td>
     <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="60">
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
 </tr>
 </table>
