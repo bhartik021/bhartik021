@@ -127,7 +127,7 @@ Check out some of my articles on Scaler Topics (in no particular order):
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
 - Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
 - Follow me on [Twitter](https://twitter.com/bhartik021)
-- Read Lates Blog on [Medium](https://medium.com/@bhartik021)
+- Read Latest Blog on [Medium](https://medium.com/@bhartik021)
 
   
 ### Recent GitHub Activity ⚡
