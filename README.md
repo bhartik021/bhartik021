@@ -30,29 +30,29 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 <table>
 <tr>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80">
     </td>
     <td align='center'>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="100">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="100">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="80">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="100">
+        <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172817899-88ada0a5-aca7-496f-996e-05a610a93367.png" width="100">
+        <img src="https://user-images.githubusercontent.com/75694208/172817899-88ada0a5-aca7-496f-996e-05a610a93367.png" width="80">
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172818360-a58681c2-2f26-4fd7-a2e8-1e223fd1540b.png" width="100">
+        <img src="https://user-images.githubusercontent.com/75694208/172818360-a58681c2-2f26-4fd7-a2e8-1e223fd1540b.png" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
