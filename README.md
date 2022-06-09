@@ -98,11 +98,11 @@ Check out some of my articles on Scaler Topics (in no particular order):
 | Scaler Topics  | C Programming | What are the advantages of function in C? (FAQ) - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | What is the diference between C and Embedded C? (FAQ) - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | What is Left Shift Operator in C? (FAQ) - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is NULL Pointer C? - Scaler Topics | [Article Link]() |
+| Scaler Topics  | C Programming | What is NULL Pointer in C? - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | C Program to Convert Octal to Decimal - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | Pyramid Pattern in C - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | What is Unary Operator in C? - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | C Program t Compare the two strings - Scaler Topics | [Article Link]() |
+| Scaler Topics  | C Programming | C Program to Compare the two strings - Scaler Topics | [Article Link]() |
 | Scaler Topics  | C Programming | What is Nested Loop in C? (FAQ) - Scaler Topics | [Article Link]() |
 | Scaler Topics  | HTML          | Align image in HTML - Scaler Topics | [Article Link]() |
 | Scaler Topics  | HTML          | How to add image in HTML - Scaler Topics | [Article Link]() |
