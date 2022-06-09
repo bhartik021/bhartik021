@@ -95,6 +95,11 @@ Check out some of my articles on Scaler Topics (in no particular order):
 | Scaler Topics  | C Programming | Operators in C - Scaler Topics        | [Article Link](https://www.scaler.com/topics/c/operators-in-c/)        |
 | Scaler Topics  | C Programming | If Statement in C - Scaler Topics     | [Article Link](https://www.scaler.com/topics/c/if-statement-in-c/)     |
 | Scaler Topics  | C Programming | History of C Language - Scaler Topics | [Article Link](https://www.scaler.com/topics/c/history-of-c-language/) |
+| Scaler Topics  | C Programming | What are the advantages of function in C? (FAQ) - Scaler Topics | [Article Link]() |
+| Scaler Topics  | C Programming | What is the diference between C and Embedded C? (FAQ) - Scaler Topics | [Article Link]() |
+| Scaler Topics  | C Programming | What is Left Shift Operator in C? (FAQ) - Scaler Topics | [Article Link]() |
+| Scaler Topics  | Operating System | multitasking operating system - Scaler Topics | [Article Link]() |
+
 
 
 
