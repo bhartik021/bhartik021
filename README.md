@@ -89,7 +89,7 @@ Check out some of my more interesting/stand-out github projects (in no particula
 
 Check out some of my articles on Scaler Topics (in no particular order):
 
-| Platform       | Hub           | Description                           | Link                                                                   |
+| Platform/Website       | Hub           | Description                           | Link                                                                   |
 | -------------- | ------------- | ---------------------------------     | ---------------------------------------------------------------------- |
 | Scaler Topics  | C Programming | Comments in C - Scaler Topics         | [Article Link](https://www.scaler.com/topics/c/comments-in-c/)         |
 | Scaler Topics  | C Programming | Operators in C - Scaler Topics        | [Article Link](https://www.scaler.com/topics/c/operators-in-c/)        |
