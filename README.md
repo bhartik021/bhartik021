@@ -107,7 +107,7 @@ Check out some of my articles on Scaler Topics (in no particular order):
 | Scaler Topics  | HTML          | Align image in HTML - Scaler Topics | [Article Link]() |
 | Scaler Topics  | HTML          | How to add image in HTML - Scaler Topics | [Article Link]() |
 | Scaler Topics  | HTML          | HTML icon code - Scaler Topics | [Article Link]() |
-| Scaler Topics  | JavaScript | ForEach in JavaScript - Scaler Topics | [Article Link]() |
+| Scaler Topics  | JavaScript | ForEach in JavaScript - Scaler Topics | [Article Link](https://www.scaler.com/topics/foreach-in-javascript/) |
 | Scaler Topics  | JavaScript | Standard JavaScript Built-in Objects - Scaler Topics | [Article Link]() |
 | Scaler Topics  | JavaScript | Other JavaScript Built-in Objects - Scaler Topics | [Article Link]() |
 | Scaler Topics  | Operating System | multitasking operating system - Scaler Topics | [Article Link]() |
