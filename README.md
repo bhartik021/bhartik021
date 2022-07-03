@@ -20,7 +20,6 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
-- [Top Females Drive | Opportunity Women in Tech](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
 
@@ -71,8 +70,7 @@ Check out some of my more interesting/stand-out github projects (in no particula
 | --- |:---:| --- | --- |
 | Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
 | Movie Hub | React, OMDb API | A Movie Hub Web Application that is capable of pulling movies name randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
-| Random Quote Generator | React Advice JSON Slip Api | Random Quote Generator an application is capable of pulling quotes randomly
-from an API. | [Link](https://quote-generator-sage.vercel.app/) |
+| Random Quote Generator | React Advice JSON Slip Api | Random Quote Generator an application is capable of pulling quotes randomly from an API. | [Link](https://quote-generator-sage.vercel.app/) |
 
 
 
