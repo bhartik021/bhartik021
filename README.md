@@ -70,8 +70,9 @@ Check out some of my more interesting/stand-out github projects (in no particula
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
 | Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
-| News Zone | React, Alan AI, News-api | Developed a voice control news web app to listen and read news articles. | [Link](https://news-zone.000webhostapp.com/) |
-| Movie Hub | React, OMDb API | Movie Hub an application is capable of pulling movies names randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
+| Movie Hub | React, OMDb API | A Movie Hub Web Application that is capable of pulling movies name randomly from an API | [Link](https://github.com/bhartik021/Movie-Hub) |
+| Random Quote Generator | React Advice JSON Slip Api | Random Quote Generator an application is capable of pulling quotes randomly
+from an API. | [Link](https://quote-generator-sage.vercel.app/) |
 
 
 
