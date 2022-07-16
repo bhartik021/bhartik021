@@ -19,6 +19,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f)
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
