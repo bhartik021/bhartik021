@@ -19,7 +19,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/top-15-visual-studio-code-shortcuts-for-windows-to-boost-productivity-98a8c9829e38)
+- [Top 20 Visual Studio Code Shortcuts for Windows to Boost Productivity](https://medium.com/@bhartik021/top-20-visual-studio-code-shortcuts-for-windows-to-boost-productivity-4635f4e57dab)
 - [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f)
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
