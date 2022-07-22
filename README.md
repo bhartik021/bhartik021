@@ -77,7 +77,7 @@ Check out some of my more interesting/stand-out github projects (in no particula
 
 
 
-### GitHub Streak🔥 and Stats 📊
+### GitHub Stats 📊
 <div>
 <p align="center">
 <a href="https://github.com/bhartik021">
@@ -87,42 +87,6 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </p> 
 </div> 
 
-### My Technical Articles
-
-Check out some of my articles on Scaler Topics (in no particular order):
-
-| Platform/Website       | Hub           | Description                           | Link                                                                   |
-| -------------- | ------------- | ---------------------------------     | ---------------------------------------------------------------------- |
-| Scaler Topics  | C Programming | Comments in C - Scaler Topics         | [Article Link](https://www.scaler.com/topics/c/comments-in-c/)         |
-| Scaler Topics  | C Programming | Operators in C - Scaler Topics        | [Article Link](https://www.scaler.com/topics/c/operators-in-c/)        |
-| Scaler Topics  | C Programming | If Statement in C - Scaler Topics     | [Article Link](https://www.scaler.com/topics/c/if-statement-in-c/)     |
-| Scaler Topics  | C Programming | History of C Language - Scaler Topics | [Article Link](https://www.scaler.com/topics/c/history-of-c-language/) |
-| Scaler Topics  | C Programming | What are the advantages of function in C? (FAQ) - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is the diference between C and Embedded C? (FAQ) - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is Left Shift Operator in C? (FAQ) - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is NULL Pointer in C? - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | C Program to Convert Octal to Decimal - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | Pyramid Pattern in C - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is Unary Operator in C? - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | C Program to Compare the two strings - Scaler Topics | [Article Link]() |
-| Scaler Topics  | C Programming | What is Nested Loop in C? (FAQ) - Scaler Topics | [Article Link]() |
-| Scaler Topics  | HTML          | Align image in HTML - Scaler Topics | [Article Link]() |
-| Scaler Topics  | HTML          | How to add image in HTML - Scaler Topics | [Article Link]() |
-| Scaler Topics  | HTML          | HTML icon code - Scaler Topics | [Article Link]() |
-| Scaler Topics  | JavaScript | ForEach in JavaScript - Scaler Topics | [Article Link](https://www.scaler.com/topics/foreach-in-javascript/) |
-| Scaler Topics  | JavaScript | Standard JavaScript Built-in Objects - Scaler Topics | [Article Link]() |
-| Scaler Topics  | JavaScript | Other JavaScript Built-in Objects - Scaler Topics | [Article Link]() |
-| Scaler Topics  | Operating System | multitasking operating system - Scaler Topics | [Article Link]() |
-
-
-
-
-<div>
-<p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
-</p>
-</div>
-
 
 ## Get in touch :coffee:
 
@@ -130,6 +94,14 @@ Check out some of my articles on Scaler Topics (in no particular order):
 - Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
 - Follow me on [Twitter](https://twitter.com/bhartik021)
 - Read Latest Blog on [Medium](https://medium.com/@bhartik021)
+
+### GitHub Streak🔥
+
+<div>
+<p align ="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
+</p>
+</div>
 
   
 ### Recent GitHub Activity ⚡
