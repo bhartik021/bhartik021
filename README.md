@@ -19,6 +19,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Custom Code Snippets in VS Code | Add your own VS Code Snippets](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
 - [Top 20 Visual Studio Code Shortcuts for Windows to Boost Productivity](https://medium.com/@bhartik021/top-20-visual-studio-code-shortcuts-for-windows-to-boost-productivity-231d18d2b1a3)
 - [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f)
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
