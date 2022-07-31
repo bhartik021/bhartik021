@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Web Development Intern at Artyvis | Technical Content Writer at GeeksforGeeks and Scaler (By InterviewBit)
+  Web Development Intern at Artyvis | Technical Content Writer at Scaler (By InterviewBit)
 </p>   
 
 <p align="center">  
