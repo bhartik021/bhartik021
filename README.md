@@ -11,12 +11,13 @@
  <img src="https://img.shields.io/github/followers/bhartik021?label=follow&style=social"/>
 </p>
  
- <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+I am a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for Scaler as a Technical Content Writer. I have been web development intern at HappyAgility.com. I have completed an engineering diploma (Honors) with a focus on computer science and engineering.
 
-I am a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I am a Web Development intern at Artyvis. I work for GeeksforGeeks and Scaler as a Technical Content Writer. I have done an engineering diploma (Honors) with a focus on computer science and engineering.
+I have also built multiple mid-level projects. Participated in 'Samsung Solve For Tomorrow Challenge' where my team was selected among the top 50 teams from all over India.
 
-Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and front-end web development (ReactJS). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. ⚡
+Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and full stack web development (MERN). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. I also enjoy sharing my expertise with the community and my team. I also enjoy working with teams and coordinating with them.
 
+I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry).
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
