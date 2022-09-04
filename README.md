@@ -20,6 +20,7 @@ Technology fascinates me, and I am constantly amazed by the changes it brings ab
 I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry).
 
 ### Latest Blog Posts
+<hr>
 <!-- BLOG-POST-LIST:START -->
 - [How to Add Custom Code Snippets in VS Code | Add your own VS Code Snippets](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
 - [Top 20 Visual Studio Code Shortcuts for Windows to Boost Productivity](https://medium.com/@bhartik021/top-20-visual-studio-code-shortcuts-for-windows-to-boost-productivity-231d18d2b1a3)
@@ -29,8 +30,8 @@ I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice Presiden
 <!-- BLOG-POST-LIST:END -->
 
 
-### Languages and Tools 🛠️
-
+### Languages and Tools 
+<hr>
 <table>
 <tr>
     <td align='center'>
@@ -68,7 +69,7 @@ I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice Presiden
 </table>
 
 ### My Projects
-
+<hr>
 Check out some of my more interesting/stand-out github projects (in no particular order):
 
 | Project | Language/Tools/Sevices | Description | Link |
@@ -79,7 +80,8 @@ Check out some of my more interesting/stand-out github projects (in no particula
 
 
 
-### GitHub Stats 📊
+### GitHub Stats 
+<hr>
 <div>
 <p align="center">
 <a href="https://github.com/bhartik021">
@@ -90,15 +92,15 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </div> 
 
 
-## Get in touch :coffee:
-
+## Get in touch
+<hr>
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
 - Connect with me on [Instagram](https://www.instagram.com/bhartik021/)
 - Follow me on [Twitter](https://twitter.com/bhartik021)
 - Read Latest Blog on [Medium](https://medium.com/@bhartik021)
 
-### GitHub Streak🔥
-
+### GitHub Streak
+<hr>
 <div>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
@@ -106,5 +108,6 @@ Check out some of my more interesting/stand-out github projects (in no particula
 </div>
 
   
-### Recent GitHub Activity ⚡
+### Recent GitHub Activity 
+<hr>
 <a href="https://github.com/bhartik021"><img alt="Bharti Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhartik021&custom_title=Bharti's%20Contribution%20Graph&theme=react-dark" /></a>
