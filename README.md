@@ -29,7 +29,7 @@ I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice Presiden
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!--
 ### Languages and Tools 
 
 <table>
@@ -49,10 +49,13 @@ I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice Presiden
     <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="80">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="80">
+    </td>
+</tr>
+<tr>
+    <td>
+       <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="80">
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/75694208/172817899-88ada0a5-aca7-496f-996e-05a610a93367.png" width="80">
@@ -67,6 +70,7 @@ I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice Presiden
     </td>
 </tr>
 </table>
+-->
 
 ### My Projects
 
