@@ -13,7 +13,7 @@
  
 I am a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for Scaler as a Technical Content Writer. I have been web development intern at HappyAgility.com. I have completed an engineering diploma (Honors) with a focus on computer science and engineering.
 
-I have also built multiple mid-level projects. Participated in 'Samsung Solve For Tomorrow Challenge' where my team was selected among the top 50 teams from all over India.
+I have also built multiple mid-level projects. Participated in 'Samsung Solve For Tomorrow Challenge' where my team was selected in the top 50 teams from all over India.
 
 Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and full stack web development (MERN). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. I also enjoy sharing my expertise with the community and my team. I also enjoy working with teams and coordinating with them.
 
