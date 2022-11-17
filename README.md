@@ -8,7 +8,7 @@
 
 <p align="center">  
  <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
- <img src="https://img.shields.io/github/followers/bhartik021?label=follow&style=social"/>
+ <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
 </p>
  
 I'm a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for Scaler as a Technical Content Writer. I have been web development intern at HappyAgility.com. I have completed an engineering diploma (Honors) with a focus on computer science and engineering.
