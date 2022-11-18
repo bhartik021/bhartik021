@@ -17,7 +17,7 @@ I have also built multiple mid-level projects. Participated in 'Samsung Solve Fo
 
 Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structure and algorithm (C++), and full stack web development (MERN). I'm now engrossed with coding. I'm always up for new experiences, meeting new people, and learning new things. I also enjoy sharing my expertise with the community and my team. I also enjoy working with teams and coordinating with them.
 
-I am a Founder and Chapter Lead at GFG Student Chapter RTU. I am a Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry).
+I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry).
 
 ### Latest Blog Posts
 
