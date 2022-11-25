@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Web Development Intern at Artyvis | Technical Content Writer at Scaler (By InterviewBit)
+  Samsung Solve for Tomorrow - Top 50 | Technical Content Writer at Scaler (By InterviewBit)
 </p>   
 
 <p align="center">  
