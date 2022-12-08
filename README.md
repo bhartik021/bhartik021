@@ -110,8 +110,3 @@ Check out some of my more interesting/stand-out github projects (in no particula
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
 </p>
 </div>
-
-  
-### Recent GitHub Activity 
-
-<a href="https://github.com/bhartik021"><img alt="Bharti Kumari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhartik021&custom_title=Bharti's%20Contribution%20Graph&theme=react-dark" /></a>
