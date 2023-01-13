@@ -72,15 +72,89 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 </table>
 -->
 
-### My Projects
 
-Check out some of my more interesting/stand-out github projects (in no particular order):
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Menses</h3>
+        <br />
+        <a target="_blank" href="https://aniruddhasoni.github.io/Menses-Period-Poverty-Tracker/">
+            <img src="https://user-images.githubusercontent.com/75694208/212263532-905373bb-8705-40a8-90d6-5f1f0cd9768e.png" width="100%" alt="Preiod Poverty Tracker"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AniruddhaSoni/Menses-Period-Poverty-Tracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://aniruddhasoni.github.io/Menses-Period-Poverty-Tracker/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs</strong> - An interface that will help the needy to find donors near their location using Google Maps.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Movie Hub</h3>
+        <br />
+      <a target="_blank" href="https://movie-hub-sepia.vercel.app/">
+            <img src="https://user-images.githubusercontent.com/75694208/212264302-0c825ef9-8a87-47c6-8b1c-857ca18222c2.png" width="100%"  alt="Movie Hub"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/bhartik021/movie-hub" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://movie-hub-sepia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, OMDb API</strong> - A Movie Hub Web Application that is capable of pulling movies name randomly from an API.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Random Quote Generator</h3>
+      <br />
+        <a target="_blank" href="https://quote-generator-sage.vercel.app/">
+          <video src="https://user-images.githubusercontent.com/75694208/143529674-2444b198-fcb9-4738-83b0-47bcab260276.mp4
+" width="100%" alt="Quote Generator"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://quote-generator-sage.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Advice JSON Slip Api</strong> - Random Quote Generator an application is capable of pulling quotes randomly from an API.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Joke Spot</h3>
+        <br />
+        <a target="_blank" href="https://github.com/bhartik021/JokeSpot">
+          <video src="https://user-images.githubusercontent.com/75694208/143527776-93c6e1e7-3f6e-4618-8d0b-666295952c37.mp4" width="100%" alt="Joke Spot"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/bhartik021/JokeSpot" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/bhartik021/JokeSpot" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A Random Joke Chrome Extension Using JavaScript</p>
+    </td>
+  </tr>
+</table>
 
-| Project | Language/Tools/Sevices | Description | Link |
-| --- |:---:| --- | --- |
-| Menses | Bootstrap 5, SCSS, JS, Google maps API, Firebase, Firestore, EmailJs | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://aniruddhasoni.github.io/Gsolution/) |
-| Movie Hub | React, OMDb API | A Movie Hub Web Application that is capable of pulling movies name randomly from an API. | [Link](https://github.com/bhartik021/Movie-Hub) |
-| Random Quote Generator | React Advice JSON Slip Api | Random Quote Generator an application is capable of pulling quotes randomly from an API. | [Link](https://quote-generator-sage.vercel.app/) |
 
 
 
