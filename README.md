@@ -29,7 +29,6 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
 <!-- BLOG-POST-LIST:END -->
 
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -38,7 +37,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
       <h3 align="center">Menses</h3>
         <br />
         <a target="_blank" href="https://aniruddhasoni.github.io/Menses-Period-Poverty-Tracker/">
-            <img src="https://user-images.githubusercontent.com/75694208/212263532-905373bb-8705-40a8-90d6-5f1f0cd9768e.png" width="100%" alt="Preiod Poverty Tracker"/>
+            <img src="https://user-images.githubusercontent.com/75694208/212275988-2022c78d-2ea0-4675-b402-8c86b11682ff.gif" width="100%" alt="Preiod Poverty Tracker"/>
         </a>
         <br />
         <p align="center">
@@ -110,7 +109,6 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
     </td>
   </tr>
 </table>
-
 
 ### GitHub Stats 
 
