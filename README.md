@@ -77,8 +77,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
       <h3 align="center">Random Quote Generator</h3>
       <br />
         <a target="_blank" href="https://quote-generator-sage.vercel.app/">
-          <video src="https://user-images.githubusercontent.com/75694208/143529674-2444b198-fcb9-4738-83b0-47bcab260276.mp4
-" width="100%" alt="Quote Generator"/>
+          <img src="https://user-images.githubusercontent.com/75694208/212270828-5ed3f6bd-c509-4989-82e4-c5a6a87ebdd3.gif" width="100%" alt="Quote Generator"/>
         </a>
       <br />
         <p align="center">
@@ -95,7 +94,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
       <h3 align="center">Joke Spot</h3>
         <br />
         <a target="_blank" href="https://github.com/bhartik021/JokeSpot">
-          <video src="https://user-images.githubusercontent.com/75694208/143527776-93c6e1e7-3f6e-4618-8d0b-666295952c37.mp4" width="100%" alt="Joke Spot"/>
+          <img src="https://user-images.githubusercontent.com/75694208/212271027-6387216b-8a7a-483a-ac93-081693eb3cf7.gif" width="100%" alt="Joke Spot"/>
         </a>
         <br />
         <p align="center">
@@ -113,8 +112,6 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 </table>
 
 
-
-
 ### GitHub Stats 
 
 <div>
@@ -124,7 +121,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhartik021&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> 
-</div> 
+</div>
 
 
 ## Get in touch
