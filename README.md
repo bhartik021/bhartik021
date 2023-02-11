@@ -110,6 +110,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
   </tr>
 </table>
 
+<!--
 ### GitHub Stats 
 
 <div>
@@ -120,7 +121,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 </a>
 </p> 
 </div>
-
+-->
 
 ## Get in touch
 
@@ -129,6 +130,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 - Follow me on [Twitter](https://twitter.com/bhartik021)
 - Read Latest Blog on [Medium](https://medium.com/@bhartik021)
 
+<!--
 ### GitHub Streak
 
 <div>
@@ -136,3 +138,4 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhartik021&theme=chartreuse-dark" alt="Bharti Kumari" />
 </p>
 </div>
+-->
