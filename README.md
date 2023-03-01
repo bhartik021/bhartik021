@@ -22,6 +22,9 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to convert your website into a Chrome-Extension?](https://medium.com/@bhartik021/how-to-convert-your-website-into-a-chrome-extension-23cedd3718d7)
+- [How to get location coordinates from the browser?](https://medium.com/@bhartik021/how-to-get-location-coordinates-from-the-browser-413f68c356f)
+- [What is GitKraken?](https://medium.com/@bhartik021/what-is-gitkraken-123cbd4b55f7)
 - [How to Add Custom Code Snippets in VS Code | Add your own VS Code Snippets](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
 - [Top 20 Visual Studio Code Shortcuts for Windows to Boost Productivity](https://medium.com/@bhartik021/top-20-visual-studio-code-shortcuts-for-windows-to-boost-productivity-231d18d2b1a3)
 - [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f)
