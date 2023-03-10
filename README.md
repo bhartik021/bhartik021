@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Samsung Solve for Tomorrow - Top 50 | Technical Content Writer at Scaler (By InterviewBit)
+  Samsung Solve for Tomorrow - Top 50 | Mongodb Writer at Scaler | Technical Content Writer at TutorialsPoint
 </p>   
 
 <p align="center">  
