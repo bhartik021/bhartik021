@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
 </p>
  
-I'm a dedicated engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work for Scaler and Tutorials Point as a Technical Content Writer. I have been web development intern at HappyAgility.com. I have completed an engineering diploma (Honors) with a focus on computer science and engineering.
+I'm an engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I am Mongodb writer at Scaler and I work for Tutorials Point as a Technical Content Writer. I have been web development intern at HappyAgility.com. I have completed an engineering diploma (Honors) with a focus on computer science and engineering.
 
 I have also built multiple mid-level projects. Participated in 'Samsung Solve For Tomorrow Challenge' where my team was selected in the top 50 teams from all over India.
 
