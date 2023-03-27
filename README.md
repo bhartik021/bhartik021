@@ -22,6 +22,7 @@ I am a Founder & Chapter Lead at GFG Student Chapter RTU. I am a Vice President 
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Management Terminologies from A - Z](https://medium.com/@bhartik021/project-management-terminologies-from-a-z-2af812215c00)
 - [Project Management Life Cycle](https://medium.com/@bhartik021/project-management-life-cycle-776a07b02a79)
 - [Waterfall Vs Agile](https://medium.com/@bhartik021/waterfall-vs-agile-b14c1766166f)
 - [Popular Project Managment Tools](https://medium.com/@bhartik021/popular-project-managment-tools-b043da845a7f)
