@@ -130,9 +130,13 @@
   </tr>
 </table>
 
-## Get in touch
+## 📬 Get in touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/bhartik021/)
-- Follow me on [Instagram](https://www.instagram.com/bhartik021/)
-- Reach out to me on [Twitter](https://twitter.com/bhartik021)
-- Read my latest blog posts on [Medium](https://medium.com/@bhartik021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bhartik021/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/bhartik021/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/bhartik021)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@bhartik021)
+
+Connect with me on LinkedIn, follow me on Instagram, reach out to me on Twitter, and read my latest blog posts on Medium.
+
+
