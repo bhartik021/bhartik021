@@ -17,6 +17,8 @@
 
 💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full stack web development using the MERN stack. I am also well-versed in data structures and algorithms using C++, enabling me to solve complex problems efficiently.
 
+🌟 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
+
 🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams from across India. This experience sharpened my collaborative skills and exposed me to real-world challenges.
 
 🌟 In addition to my technical pursuits, I am the Founder & Chapter Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I serve as the Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry), contributing to the empowerment of women in the field of technology.
