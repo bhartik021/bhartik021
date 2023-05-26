@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Samsung Solve for Tomorrow - Top 50 | Mongodb Writer at Scaler | Technical Content Writer at TutorialsPoint
+  Mentor @GSSoC'23 | Samsung Solve for Tomorrow - Top 50 | Mongodb Writer at Scaler | Technical Content Writer at TutorialsPoint
 </p>
 
 <p align="center">  
