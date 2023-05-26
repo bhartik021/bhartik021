@@ -11,13 +11,19 @@
  <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
 </p>
 
-I'm an engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. I work as a Mongodb writer at Scaler and as a Technical Content Writer at Tutorials Point. I have experience as a web development intern at HappyAgility.com and have completed an engineering diploma (Honors) with a focus on computer science and engineering.
+🎓 I'm an ambitious engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a Mongodb Writer at Scaler and also work as a Technical Content Writer at Tutorials Point.
 
-I have built multiple mid-level projects and was selected in the top 50 teams from all over India in the 'Samsung Solve For Tomorrow Challenge'.
+💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) with a focus on computer science and engineering.
 
-Technology fascinates me, and I am constantly amazed by the changes it brings about in the world. Along with my graduation, I've learned a variety of skills, including data structures and algorithms (C++) and full stack web development (MERN). I'm passionate about coding and always open to new experiences, meeting new people, and learning new things. I enjoy sharing my expertise with the community and collaborating with teams.
+💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full stack web development using the MERN stack. I am also well-versed in data structures and algorithms using C++, enabling me to solve complex problems efficiently.
 
-I am the Founder & Chapter Lead at GFG Student Chapter RTU and the Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry).
+🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams from across India. This experience sharpened my collaborative skills and exposed me to real-world challenges.
+
+🌟 In addition to my technical pursuits, I am the Founder & Chapter Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I serve as the Vice President of Information Technology at WICCI (Women’s Indian Chamber of Commerce and Industry), contributing to the empowerment of women in the field of technology.
+
+💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. I take pleasure in sharing my expertise with the community and actively collaborating with teams to drive meaningful impact.
+
+✉️ Feel free to connect with me at [bhartik021@gmail.com]. Let's explore exciting opportunities together!
 
 ### Latest Blog Posts
 
