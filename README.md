@@ -133,7 +133,7 @@
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bhartik021/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/bhartik021/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/bhartik021/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/bhartik021)
 [![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@bhartik021)
 
