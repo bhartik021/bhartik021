@@ -13,11 +13,11 @@
 
 🎓 I'm an ambitious engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a Mongodb Writer at Scaler and also work as a Technical Content Writer at Tutorials Point.
 
-💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) with a focus on computer science and engineering.
+👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) with a focus on computer science and engineering.
 
 💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full stack web development using the MERN stack. I am also well-versed in data structures and algorithms using C++, enabling me to solve complex problems efficiently.
 
-🌟 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
+👩🏻‍💻 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
 
 🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams from across India. This experience sharpened my collaborative skills and exposed me to real-world challenges.
 
