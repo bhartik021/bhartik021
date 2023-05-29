@@ -93,6 +93,28 @@ When we write it on a single sheet of paper i.e. resume by putting all our skill
         </a>
       </p>
     </td>
+   <td width="50%" valign="top">
+      <h3 align="center">SummarizeMe</h3>
+      <br />
+      <p align="center">
+        <a target="_blank" href="https://github.com/bhartik021/summarizeme">
+         <img src="https://github.com/bhartik021/bhartik021/assets/75694208/8017e682-e53d-4a92-8882-fc2998b63491" width="100%" alt="SummarizeMe"/> 
+        </a>
+      </p>
+      <br />
+      <p><strong>HTML, CSS, JavaScript, Reactjs, Tailwind CSS </strong> - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries</p>
+      <p align="center">
+        <a href="https://github.com/bhartik021/summarizeme" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://summarizeme-99sb19vwt-bhartik021.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Movie Hub</h3>
       <br />
@@ -112,9 +134,6 @@ When we write it on a single sheet of paper i.e. resume by putting all our skill
         </a>
       </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Random Quote Generator</h3>
       <br />
@@ -130,25 +149,6 @@ When we write it on a single sheet of paper i.e. resume by putting all our skill
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://quote-generator-sage.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Joke Spot</h3>
-      <br />
-      <p align="center">
-        <a target="_blank" href="https://github.com/bhartik021/JokeSpot">
-          <img src="https://user-images.githubusercontent.com/75694208/212271027-6387216b-8a7a-483a-ac93-081693eb3cf7.gif" width="100%" alt="Joke Spot"/>
-        </a>
-      </p>
-      <br />
-      <p><strong>HTML5, CSS3, & Javascript</strong> - A Random Joke Chrome Extension using JavaScript.</p>
-      <p align="center">
-        <a href="https://github.com/bhartik021/JokeSpot" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://github.com/bhartik021/JokeSpot" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
