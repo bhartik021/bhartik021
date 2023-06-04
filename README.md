@@ -69,7 +69,7 @@ When we write it on a single sheet of paper i.e. resume by putting all our skill
 
 <!-- BLOG-POST-LIST:END -->
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
   
@@ -155,7 +155,7 @@ When we write it on a single sheet of paper i.e. resume by putting all our skill
     </td>
   </tr>
 </table>
-
+ -->
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bhartik021/)
