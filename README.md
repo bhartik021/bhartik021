@@ -35,11 +35,12 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+<!-- 
 - [Project Management Terminologies from A - Z](https://medium.com/@bhartik021/project-management-terminologies-from-a-z-2af812215c00)
 - [Project Management Life Cycle](https://medium.com/@bhartik021/project-management-life-cycle-776a07b02a79)
 - [Waterfall Vs Agile](https://medium.com/@bhartik021/waterfall-vs-agile-b14c1766166f)
 - [Popular Project Managment Tools](https://medium.com/@bhartik021/popular-project-managment-tools-b043da845a7f)
+-->
 - [Productivity Tools to Improve your Developer Workflow](https://medium.com/@bhartik021/top-visual-studio-code-plugins-to-boost-productivity-and-workflow-in-2023-9871e00029e8)
 - [Top Visual Studio Code Plugins to Boost Productivity and workflow in 2023](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8)
 - [How to Add Custom Code Snippets in VS Code](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
