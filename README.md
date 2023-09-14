@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Mentor @GSSoC'23 | Samsung Solve for Tomorrow - Top 50 | Mongodb Writer at Scaler | Technical Content Writer at TutorialsPoint
+  Amazon ML Summer School'23 | Mentor @GSSoC'23 | Samsung Solve for Tomorrow - Top 50 | Mongodb Writer at Scaler
 </p>
 
 <p align="center">  
