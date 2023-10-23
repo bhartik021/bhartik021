@@ -41,14 +41,11 @@
 - [Waterfall Vs Agile](https://medium.com/@bhartik021/waterfall-vs-agile-b14c1766166f)
 -->
 - [Popular Project Management Tools](https://medium.com/@bhartik021/popular-project-management-tools-b043da845a7f)
-- [Productivity Tools to Improve your Developer Workflow](https://medium.com/@bhartik021/top-visual-studio-code-plugins-to-boost-productivity-and-workflow-in-2023-9871e00029e8)
-- [Top Visual Studio Code Plugins to Boost Productivity and workflow in 2023](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8)
+- [Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8)
 - [How to Add Custom Code Snippets in VS Code](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
-- [Top 20 Visual Studio Code Shortcuts for Windows to Boost Productivity](https://medium.com/@bhartik021/top-20-visual-studio-code-shortcuts-for-windows-to-boost-productivity-231d18d2b1a3)
 - [5 Best Ways to Screenshot Your Code](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f)
 - [Scaler Interview Experience for Technical Content Writer](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416)
 - [5 Reasons Your Resume will get Rejected](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343)
-
 
 <!--
 #### [How to Add Custom Code Snippets in VS Code](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f)
