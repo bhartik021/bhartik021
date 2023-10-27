@@ -24,7 +24,7 @@
 
 🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams from across India. This experience sharpened my collaborative skills and exposed me to real-world challenges.
 
-🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology.
+🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology. Also, I am MongoDB Community Creator.
 
 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. I take pleasure in sharing my expertise with the community and actively collaborating with teams to drive meaningful impact.
 
