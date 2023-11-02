@@ -16,15 +16,15 @@
 <!-- About-Me:START -->
 🎓 I'm an engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a MongoDB Writer at Scaler and also work as a Technical Writer at Pepper Content.
 
-👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) with a focus on computer science and engineering.
+👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) focusing on computer science and engineering.
 
 💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full-stack web development using the MERN stack. I am also well-versed in data structures and algorithms using C++, enabling me to solve complex problems efficiently.
 
 👩🏻‍💻 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
 
-🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams from across India. This experience sharpened my collaborative skills and exposed me to real-world challenges.
+🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge,' where my team was selected among the top 50 teams across India. This experience sharpened my collaborative skills and exposed me to real-world challenges. Also I have been selected in Amazon ML Summer 2023.
 
-🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology. Also, I am MongoDB Community Creator.
+🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology. Also, I am a MongoDB Community Creator.
 
 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. I take pleasure in sharing my expertise with the community and actively collaborating with teams to drive meaningful impact.
 
