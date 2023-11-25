@@ -14,7 +14,7 @@
 ### About Me
 
 <!-- About-Me:START -->
-🎓 I'm an engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a MongoDB Writer at Scaler and also work as a Technical Writer at Pepper Content.
+🎓 I'm an engineering undergraduate majoring in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a MongoDB Writer at Scaler.
 
 👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) focusing on computer science and engineering.
 
