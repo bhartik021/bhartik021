@@ -28,7 +28,7 @@
 
 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. I take pleasure in sharing my expertise with the community and actively collaborating with teams to drive meaningful impact.
 
-✉️ Feel free to connect with me at bhartik021@gmail.com. Let's explore exciting opportunities together!
+✉️ Feel free to connect with me at bhartik021@gmail.com Let's explore exciting opportunities together!
 
 <!-- About-Me:End -->
 
