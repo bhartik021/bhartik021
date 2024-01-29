@@ -22,7 +22,7 @@
 
 👩🏻‍💻 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
 
-🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge', where my team was selected among the top 50 teams across India. This experience sharpened my collaborative skills and exposed me to real-world challenges. Also, I have been selected for Amazon ML Summer School 2023.
+🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge', where my team was selected among the top 50 teams across India. This experience sharpened my collaborative skills and exposed me to real-world challenges. Also, I have been selected for Amazon ML Summer School in 2023.
 
 🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology. Also, I am a MongoDB Community Creator.
 
