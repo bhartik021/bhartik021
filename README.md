@@ -18,7 +18,7 @@
 
 👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) focusing on computer science and engineering.
 
-💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full-stack web development using the MERN stack. I am also well-versed in data structures and algorithms (C++).
+💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full-stack web development (MERN stack). I am also well-versed in data structures and algorithms (C++).
 
 👩🏻‍💻 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
 
