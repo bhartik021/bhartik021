@@ -1,35 +1,36 @@
 <div align="center">
-  <h1>👋 Hi, I'm Bharti</h1>
-  <p>Web Developer | Technical Writer</p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!"/>
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Software+Developer;Technical+Writer"/>
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
   <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
-</div>
+</p>
+
 
 ## About Me
 
-### 🎓 Education
+### Education
 
 I'm currently pursuing my Bachelor's degree in Electronics and Communication Engineering at RTU, Kota. Additionally, I hold an engineering diploma (with Honors) specializing in computer science and engineering.
 
-### 💼 Experience
+### Experience
 
 I've had the privilege of interning as a web developer at HappyAgility.com and Artyvis, where I honed my skills in frontend and backend development. Currently, I'm leveraging my technical expertise as a Technical Writer at Scaler, contributing to the dissemination of knowledge in the tech community.
 
-### 🚀 Skills
+### Skills
 
 My journey in the tech world has equipped me with proficiency in a wide array of tools and technologies. From crafting elegant user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Node.js and Express, I thrive in every aspect of the development cycle. My familiarity with databases like MongoDB and MySQL allows me to create scalable and efficient solutions.
 
-### 🌱 Open Source and Community
+### Open Source and Community
 
 I'm a strong advocate for open-source software and actively contribute to various projects. As a mentor at GSSoC (GirlScript Summer of Code), I guide aspiring developers and support them in their open-source endeavors. I also take pride in being part of initiatives like the Samsung Solve For Tomorrow Challenge and Amazon ML Summer School, where I collaborate with talented individuals to tackle real-world challenges.
 
-### 🌟 Passion and Vision
+### Passion and Vision
 
 Beyond coding, I'm deeply passionate about leveraging technology for social good. Whether it's organizing tech workshops for underprivileged students or participating in hackathons focused on sustainability, I believe in using my skills to make a positive impact on society.
 
-### 📧 Let's Connect!
+### Let's Connect!
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in exploring the limitless possibilities of technology. Whether you want to collaborate on a project, discuss the latest tech trends, or simply share cat memes, feel free to reach out to me at bhartik021@gmail.com. Let's embark on an inspiring journey together!
 
