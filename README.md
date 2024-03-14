@@ -9,10 +9,6 @@
 
 ## About Me
 
-<div align="center">
-  <p style="font-size: 1.2em; color: #333;">👩‍💻 Hi there! I'm Bharti, an enthusiastic Web Developer and Technical Writer based in India. Let me take you on a journey through my digital universe!</p>
-</div>
-
 ### 🎓 Education
 
 I'm currently pursuing my Bachelor's degree in Electronics and Communication Engineering at RTU, Kota. Additionally, I hold an engineering diploma (with Honors) specializing in computer science and engineering.
