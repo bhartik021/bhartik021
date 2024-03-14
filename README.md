@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
 </p>
 
-
 ## About Me
 
 ### Education
