@@ -9,21 +9,33 @@
 
 ## About Me
 
-🎓 I'm an engineering undergraduate in Electronics and Communication Engineering at RTU, Kota. Currently, I hold the role of a Technical Writer at Scaler.
+<div align="center">
+  <p style="font-size: 1.2em; color: #333;">👩‍💻 Hi there! I'm Bharti, an enthusiastic Web Developer and Technical Writer based in India. Let me take you on a journey through my digital universe!</p>
+</div>
 
-👩🏻‍💻 Previously, I gained valuable experience as a web development intern at HappyAgility.com and Artyvis. I also hold an engineering diploma (Honors) focusing on computer science and engineering.
+### 🎓 Education
 
-💡 Throughout my academic journey, I've built numerous mid-level projects, showcasing my proficiency in full-stack web development (MERN stack). I am also well-versed in data structures and algorithms (C++).
+I'm currently pursuing my Bachelor's degree in Electronics and Communication Engineering at RTU, Kota. Additionally, I hold an engineering diploma (with Honors) specializing in computer science and engineering.
 
-👩🏻‍💻 I actively contribute to the open-source community and serve as a mentor at GSSoC (GirlScript Summer of Code), guiding and supporting aspiring developers in their open-source projects.
+### 💼 Experience
 
-🏆 I'm proud to have participated in the prestigious 'Samsung Solve For Tomorrow Challenge', where my team was selected among the top 50 teams across India. This experience sharpened my collaborative skills and exposed me to real-world challenges. Also, I have been selected for Amazon ML Summer School in 2023.
+I've had the privilege of interning as a web developer at HappyAgility.com and Artyvis, where I honed my skills in frontend and backend development. Currently, I'm leveraging my technical expertise as a Technical Writer at Scaler, contributing to the dissemination of knowledge in the tech community.
 
-🌟 In addition to my technical pursuits, I have been Lead at GFG Student Chapter RTU, fostering a community of aspiring programmers. Moreover, I am a Beta Microsoft Learn Student Ambassador, contributing to the field of technology. Also, I am a MongoDB Community Creator and HackerEarth Campus Ambassador.
+### 🚀 Skills
 
-💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. I take pleasure in sharing my expertise with the community and actively collaborating with teams to drive meaningful impact.
+My journey in the tech world has equipped me with proficiency in a wide array of tools and technologies. From crafting elegant user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Node.js and Express, I thrive in every aspect of the development cycle. My familiarity with databases like MongoDB and MySQL allows me to create scalable and efficient solutions.
 
-✉️ Feel free to connect with me at bhartik021@gmail.com Let's explore exciting opportunities together!
+### 🌱 Open Source and Community
+
+I'm a strong advocate for open-source software and actively contribute to various projects. As a mentor at GSSoC (GirlScript Summer of Code), I guide aspiring developers and support them in their open-source endeavors. I also take pride in being part of initiatives like the Samsung Solve For Tomorrow Challenge and Amazon ML Summer School, where I collaborate with talented individuals to tackle real-world challenges.
+
+### 🌟 Passion and Vision
+
+Beyond coding, I'm deeply passionate about leveraging technology for social good. Whether it's organizing tech workshops for underprivileged students or participating in hackathons focused on sustainability, I believe in using my skills to make a positive impact on society.
+
+### 📧 Let's Connect!
+
+I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in exploring the limitless possibilities of technology. Whether you want to collaborate on a project, discuss the latest tech trends, or simply share cat memes, feel free to reach out to me at bhartik021@gmail.com. Let's embark on an inspiring journey together!
 
 ## Latest Blog Posts
 
