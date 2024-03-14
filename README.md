@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Web+Developer;Technical+Writer"/>
-</div>
-
-<p align="center">
+  <h1>👋 Hi, I'm Bharti</h1>
+  <p>Web Developer | Technical Writer</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!"/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
   <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
-</p>
+</div>
 
 ## About Me
 
@@ -38,16 +38,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhartik021/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/bhartik021/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
   <a href="https://twitter.com/bhartik021" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
   </a>
   <a href="https://medium.com/@bhartik021" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white&style=flat-square" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
   </a>
 </p>
 
