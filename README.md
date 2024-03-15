@@ -35,14 +35,14 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and anyo
 
 ## Latest Blog Posts
 
-| **Title** | **Link** |
-| --------- | -------- |
-| Popular Project Management Tools | [Read more](https://medium.com/@bhartik021/popular-project-management-tools-b043da845a7f) |
-| Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | [Read more](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8) |
-| How to Add Custom Code Snippets in VS Code | [Read more](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f) |
-| 5 Best Ways to Screenshot Your Code | [Read more](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f) |
-| Scaler Interview Experience for Technical Content Writer | [Read more](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416) |
-| 5 Reasons Your Resume will get Rejected | [Read more](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343) |
+| **Platform** | **Title** | **Link** |
+| ----------- | --------- | -------- |
+| Medium | Popular Project Management Tools | [Read more](https://medium.com/@bhartik021/popular-project-management-tools-b043da845a7f) |
+| Medium | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | [Read more](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8) |
+| Medium | How to Add Custom Code Snippets in VS Code | [Read more](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f) |
+| Medium | 5 Best Ways to Screenshot Your Code | [Read more](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f) |
+| Medium | Scaler Interview Experience for Technical Content Writer | [Read more](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416) |
+| Medium | 5 Reasons Your Resume will get Rejected | [Read more](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343) |
 
 ## Get in Touch
 
