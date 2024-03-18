@@ -35,14 +35,14 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and anyo
 
 ## Latest Blog Posts
 
-| **Platform** | **Title** | **Link** |
-| ----------- | --------- | -------- |
-| Medium | Boost Your Coding Productivity with Pieces - AI for Developers | [Read more](https://medium.com/@bhartik021/code-like-a-superhero-supercharge-your-skills-with-pieces-ai-1cac6eb37f54) |
-| Medium | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | [Read more](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8) |
-| Medium | How to Add Custom Code Snippets in VS Code | [Read more](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f) |
-| Medium | 5 Best Ways to Screenshot Your Code | [Read more](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f) |
-| Medium | Scaler Interview Experience for Technical Content Writer | [Read more](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416) |
-| Medium | 5 Reasons Your Resume will get Rejected | [Read more](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343) |
+| **Platform** | **Topic** | **Title** | **Link** |
+| ----------- | --------- | --------- | -------- |
+| Medium | Miscellaneous | Boost Your Coding Productivity with Pieces - AI for Developers | [Read more](https://medium.com/@bhartik021/code-like-a-superhero-supercharge-your-skills-with-pieces-ai-1cac6eb37f54) |
+| Medium | Miscellaneous | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | [Read more](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8) |
+| Medium | Miscellaneous | How to Add Custom Code Snippets in VS Code | [Read more](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f) |
+| Medium | Miscellaneous | 5 Best Ways to Screenshot Your Code | [Read more](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f) |
+| Medium | Miscellaneous | Scaler Interview Experience for Technical Content Writer | [Read more](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416) |
+| Medium | Miscellaneous | 5 Reasons Your Resume will get Rejected | [Read more](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343) |
 
 ## Get in Touch
 
