@@ -23,7 +23,7 @@ My journey in the tech world has equipped me with proficiency in a wide array of
 
 ### Open Source and Community
 
-I'm a strong advocate for open-source software and actively contribute to various projects. As a mentor at GSSoC (GirlScript Summer of Code), I guide aspiring developers and support them in their open-source endeavors. I also take pride in being part of initiatives like the Samsung Solve For Tomorrow Challenge and Amazon ML Summer School, where I collaborate with talented individuals to tackle real-world challenges.
+I'm an advocate for open-source software and actively contribute to various projects. As a mentor at GSSoC (GirlScript Summer of Code), I guide aspiring developers and support them in their open-source endeavors. I also take pride in being part of initiatives like the Samsung Solve For Tomorrow Challenge and Amazon ML Summer School, where I collaborate with talented individuals to tackle real-world challenges.
 
 ### Passion and Vision
 
