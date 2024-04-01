@@ -15,7 +15,7 @@ I'm currently pursuing my Bachelor's degree in Electronics and Communication Eng
 
 ### Experience
 
-I've had the privilege of interning as a web developer at HappyAgility.com and Artyvis, where I honed my skills in frontend and backend development. Currently, I'm leveraging my technical expertise as a Technical Writer at Scaler, contributing to the dissemination of knowledge in the tech community.
+I've had the privilege of interning as a web developer at HappyAgility and Artyvis, where I honed my skills in frontend and backend development. Currently, I'm leveraging my technical expertise as a Technical Writer at Scaler, contributing to the dissemination of knowledge in the tech community.
 
 ### Skills
 
