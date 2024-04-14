@@ -19,7 +19,7 @@ I've had the privilege of interning as a web developer at HappyAgility and Artyv
 
 ### Skills
 
-My journey in the tech world has equipped me with proficiency in a wide array of tools and technologies. From crafting elegant user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Node.js and Express, I thrive in every aspect of the development cycle. My familiarity with databases like MongoDB and MySQL allows me to create scalable and efficient solutions.
+My journey in the tech world has equipped me with proficiency in a wide range of tools and technologies. From crafting elegant user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Node.js and Express, I thrive in every aspect of the development cycle. My familiarity with databases like MongoDB and MySQL allows me to create scalable and efficient solutions.
 
 ### Open Source and Community
 
