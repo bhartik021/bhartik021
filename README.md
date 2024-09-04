@@ -8,30 +8,15 @@
 </p>
 
 ## About Me
+Bharti is currently a Software Engineer Intern at miniOrange. She holds an engineering degree in Electronics and Communication from RTU, Kota, and has gained experience as a Technical Content Writer for various organizations.
 
-### Education
+She is passionate about contributing to the open-source community and has served as a mentor at GirlScript Summer of Code (GSSoC). During her studies, she built several mid-level projects using the MERN stack and is skilled in data structures and algorithms with C++.
 
-I'm currently pursuing my Bachelor's degree in Electronics and Communication Engineering at RTU, Kota. Additionally, I hold an engineering diploma (with Honors) specializing in computer science and engineering.
+She has also been an Amazon ML Summer School mentee, where she learned about Machine Learning from Amazon scientists. Her team was among the top 50 in the 'Samsung Solve For Tomorrow Challenge,' which was a great learning experience. She is also a national finalist in the Smart India Hackathon.
 
-### Experience
+Bharti is the Founder and Chapter Lead at GFG Student Chapter RTU and a Gold Microsoft Learn Student Ambassador. She also contributes as a MongoDB Community Creator and is a Google Women TechMaker.
 
-I've had the privilege of interning as a web developer at HappyAgility and Artyvis, where I honed my skills in frontend and backend development. Currently, I'm leveraging my technical expertise as a Technical Writer at Scaler, contributing to the dissemination of knowledge in the tech community.
-
-### Skills
-
-My journey in the tech world has equipped me with proficiency in a wide range of tools and technologies. From crafting elegant user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Node.js and Express, I thrive in every aspect of the development cycle. My familiarity with databases like MongoDB and MySQL allows me to create scalable and efficient solutions.
-
-### Open Source and Community
-
-I'm an advocate for open-source software and actively contribute to various projects. As a mentor at GSSoC (GirlScript Summer of Code), I guide aspiring developers and support them in their open-source endeavors. I also take pride in being part of initiatives like the Samsung Solve For Tomorrow Challenge and Amazon ML Summer School, where I collaborate with talented individuals to tackle real-world challenges.
-
-### Passion and Vision
-
-Beyond coding, I'm deeply passionate about leveraging technology for social good. Whether it's organizing tech workshops for underprivileged students or participating in hackathons focused on sustainability, I believe in using my skills to make a positive impact on society.
-
-### Let's Connect!
-
-I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in exploring the limitless possibilities of technology. Whether you want to collaborate on a project, discuss the latest tech trends, or simply share cat memes, feel free to reach out to me at bhartik021@gmail.com. Let's embark on an inspiring journey together!
+She loves coding, meeting new people, and sharing knowledge. Feel free to reach out at bhartik021@gmail.com—let's connect and explore opportunities together!
 
 ## Latest Blog Posts
 
