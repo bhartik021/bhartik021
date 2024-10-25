@@ -1,51 +1,72 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Bharti;Software+Developer;Technical+Writer"/>
-</div>
+<pre>
+   ___   _      ___   _      ___   _      ___   _      ___   _   
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|  
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|  
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /   
+       |____________|____________|____________|____________|      
+                             |            |            |          
+                         ___  \_      ___  \_      ___  \_       
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|      
+                         '-`  |_|     '-`  |_|     '-`  |_|      
+                        /mmm/        /mmm/        /mmm/          
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhartik021&color=green" alt="bhartik021" />
-  <img src="https://img.shields.io/github/followers/bhartik021?label=followers&style=social"/>
-</p>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Software Engineer Intern @ miniOrange
+├─▣ Founder & Chapter Lead, GFG Student Chapter RTU
+├─▣ Passionate about Open Source & Community Building
+├─▣ Technical Writer
+│
+└───────────────────────────────▰▰▰
 
-## About Me
-Bharti is currently a Software Engineer Intern at miniOrange. She holds an engineering degree in Electronics and Communication from RTU, Kota, and has gained experience as a Technical Content Writer for various organizations.
+┌──┤ TECHNICAL SKILLS ├────────────▰▰▰
+│
+├─◈ Programming Languages/Web Technologies: C/C++, HTML/CSS, JavaScript, Python
+├─◈ Framework/Libraries: Bootstrap, ReactJS, Django 
+├─◈ Database: MongoDB (NoSQL), MySQL, PostgreSQL (SQL), Redis
+├─◈ CS Fundamentals: Operating Systems, DBMS, Computer Networking, Object Oriented Programming
+├─◈ Tools/Technologies: Git, GitHub, Bitbucket, Postman 
+│
+└───────────────────────────────▰▰▰
 
-She is passionate about contributing to the open-source community and has served as a mentor at GirlScript Summer of Code (GSSoC). During her studies, she built several mid-level projects using the MERN stack and is skilled in data structures and algorithms with C++.
+┌──┤ ACHIEVEMENTS ├────────────────▰▰▰
+│
+├─◈ Selected as a National Finalist in the Smart India Hackathon organized by MHRD among 44,000+ teams.
+├─◈ Selected as Amazon ML Summer Mentee by Amazon among 40,000+ participants.
+├─◈ Ranked in the top 50 teams in India in the Samsung Solve for Tomorrow Hackathon among 18,000+ teams.
+├─◈ Published 150+ technical articles across various platforms, with 50,000+ views.
+│
+└───────────────────────────────▰▰▰
 
-She has also been an Amazon ML Summer School mentee, where she learned about Machine Learning from Amazon scientists. Her team was among the top 50 in the 'Samsung Solve For Tomorrow Challenge,' which was a great learning experience. She is also a national finalist in the Smart India Hackathon.
+┌──┤ Community Activities ├────────▰▰▰
+│
+├─◈ [GFG Student Chapter RTU Lead]
+├─◈ [Gold Microsoft Learn Student Ambassador]
+├─◈ [Google Women Techmaker Ambassador]
+├─◈ [MongoDB Community Creator]
+│
+└───────────────────────────────▰▰▰
 
-Bharti is the Founder and Chapter Lead at GFG Student Chapter RTU and a Gold Microsoft Learn Student Ambassador. She also contributes as a MongoDB Community Creator and is a Google Women TechMaker.
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/bhartik021">LinkedIn</a>
+├─◈ <a href="https://twitter.com/bhartik021">Twitter</a>
+├─◈ <a href="https://www.instagram.com/bhartik021/">Instagram</a>
+├─◈ <a href="https://medium.com/@bhartik021">Medium</a>
+│
+└───────────────────────────────▰▰▰
 
-She loves coding, meeting new people, and sharing knowledge. Feel free to reach out at bhartik021@gmail.com—let's connect and explore opportunities together!
+┌──┤ BLOG POSTS ├──────────▰▰▰
+│
+| Platform | Topic      | Title                                                                              |   Link    |
+|--------------|----------------|----------------------------------------------------------------------------|-----------|
+| Medium       | Miscellaneous   | Boost Your Coding Productivity with Pieces - AI for Developers            | <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a> |
+| Medium       | Miscellaneous   | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more</a> |
+| Medium       | Miscellaneous   | How to Add Custom Code Snippets in VS Code                                | <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a> |
+| Medium       | Miscellaneous   | 5 Best Ways to Screenshot Your Code                                       | <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a> |
+| Medium       | Miscellaneous   | Scaler Interview Experience for Technical Content Writer                  | <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a> |
+| Medium       | Miscellaneous   | 5 Reasons Your Resume will get Rejected                                   | <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a> |
+│
+└───────────────────────────────▰▰▰
 
-## Latest Blog Posts
-
-| **Platform** | **Topic** | **Title** | **Link** |
-| ----------- | --------- | --------- | -------- |
-| Medium | Miscellaneous | Boost Your Coding Productivity with Pieces - AI for Developers | [Read more](https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab) |
-| Medium | Miscellaneous | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | [Read more](https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8) |
-| Medium | Miscellaneous | How to Add Custom Code Snippets in VS Code | [Read more](https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f) |
-| Medium | Miscellaneous | 5 Best Ways to Screenshot Your Code | [Read more](https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f) |
-| Medium | Miscellaneous | Scaler Interview Experience for Technical Content Writer | [Read more](https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416) |
-| Medium | Miscellaneous | 5 Reasons Your Resume will get Rejected | [Read more](https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343) |
-
-## Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhartik021/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/bhartik021/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/bhartik021" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-  </a>
-  <a href="https://medium.com/@bhartik021" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
-  </a>
-</p>
-
-<p align="center">
-  Connect with me on LinkedIn, follow me on Instagram, reach out to me on Twitter, and read my latest blog posts on Medium.
-</p>
+</pre>
