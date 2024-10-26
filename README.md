@@ -66,17 +66,17 @@
 ┌──┤ BLOG POSTS ├──────────▰▰▰</span>
 │
 ├─▣ <strong>Boost Your Coding Productivity with Pieces - AI for Developers</strong>  
-│      <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a>
+│      <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more...</a>
 ├─▣ <strong>Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023</strong>  
-│      <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more</a>
+│      <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more...</a>
 ├─▣ <strong>How to Add Custom Code Snippets in VS Code</strong>  
-│      <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a>
+│      <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more...</a>
 ├─▣ <strong>5 Best Ways to Screenshot Your Code</strong>  
-│      <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a>
+│      <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more...</a>
 ├─▣ <strong>Scaler Interview Experience for Technical Content Writer</strong>  
-│      <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a>
+│      <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more...</a>
 ├─▣ <strong>5 Reasons Your Resume Will Get Rejected</strong>  
-│      <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a>
+│      <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more...</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
