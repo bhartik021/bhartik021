@@ -9,8 +9,8 @@
                         [#]   |=|    [@]   |=|    [*]   |=|      
                          '-`  |_|     '-`  |_|     '-`  |_|      
                         /mmm/        /mmm/        /mmm/   
-                                                
-                            B H A R T I       
+
+                            B H A R T I   K U M A R I       
    
 ┌──┤ WHOAMI ├─────────▰▰▰</span>
 │
