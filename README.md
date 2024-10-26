@@ -58,14 +58,14 @@
 
 ┌──┤ BLOG POSTS ├──────────▰▰▰
 │
-| Platform | Topic      | Title                                                                              |   Link    |
-|--------------|----------------|----------------------------------------------------------------------------|-----------|
-| Medium       | Miscellaneous   | Boost Your Coding Productivity with Pieces - AI for Developers            | <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a> |
-| Medium       | Miscellaneous   | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more</a> |
-| Medium       | Miscellaneous   | How to Add Custom Code Snippets in VS Code                                | <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a> |
-| Medium       | Miscellaneous   | 5 Best Ways to Screenshot Your Code                                       | <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a> |
-| Medium       | Miscellaneous   | Scaler Interview Experience for Technical Content Writer                  | <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a> |
-| Medium       | Miscellaneous   | 5 Reasons Your Resume will get Rejected                                   | <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a> |
+| Platform     | Title                                                                     |   Link    |
+|--------------|---------------------------------------------------------------------------|-----------|
+| Medium       | Boost Your Coding Productivity with Pieces - AI for Developers            | <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a> |
+| Medium       | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more</a> |
+| Medium       | How to Add Custom Code Snippets in VS Code                                | <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a> |
+| Medium       | 5 Best Ways to Screenshot Your Code                                       | <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a> |
+| Medium       | Scaler Interview Experience for Technical Content Writer                  | <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a> |
+| Medium       | 5 Reasons Your Resume will get Rejected                                   | <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a> |
 │
 └───────────────────────────────▰▰▰
 
