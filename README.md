@@ -21,11 +21,16 @@
 
 ┌──┤ TECHNICAL SKILLS ├────────────▰▰▰
 │
-├─◈ Programming Languages/Web Technologies: C/C++, HTML/CSS, JavaScript, Python
-├─◈ Framework/Libraries: Bootstrap, ReactJS, Django 
-├─◈ Database: MongoDB (NoSQL), MySQL, PostgreSQL (SQL), Redis
-├─◈ CS Fundamentals: Operating Systems, DBMS, Computer Networking, Object Oriented Programming
-├─◈ Tools/Technologies: Git, GitHub, Bitbucket, Postman 
+├─◈ <strong>Programming Languages/Web Technologies:</strong>  
+│      C/C++, HTML/CSS, JavaScript, Python
+├─◈ <strong>Frameworks/Libraries:</strong>  
+│      Bootstrap, ReactJS, Django 
+├─◈ <strong>Databases:</strong>  
+│      MongoDB (NoSQL), MySQL, PostgreSQL (SQL), Redis
+├─◈ <strong>CS Fundamentals:</strong>  
+│      Operating Systems, DBMS, Computer Networking, OOP
+├─◈ <strong>Tools/Technologies:</strong>  
+│      Git, GitHub, Bitbucket, Postman 
 │
 └───────────────────────────────▰▰▰
 
@@ -38,7 +43,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ Community Activities ├────────▰▰▰
+┌──┤ COMMUNITY INVOLVEMENT ├────────▰▰▰
 │
 ├─◈ [GFG Student Chapter RTU Lead]
 ├─◈ [Gold Microsoft Learn Student Ambassador]
@@ -47,7 +52,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
+┌──┤ CONNECT WITH ME ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/bhartik021">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/bhartik021">Twitter</a>
@@ -56,16 +61,14 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ BLOG POSTS ├──────────▰▰▰
+┌──┤ POPULAR BLOG POSTS ├──────────▰▰▰
 │
-| Platform     | Title                                                                     |   Link    |
-|--------------|---------------------------------------------------------------------------|-----------|
-| Medium       | Boost Your Coding Productivity with Pieces - AI for Developers            | <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a> |
-| Medium       | Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023 | <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more</a> |
-| Medium       | How to Add Custom Code Snippets in VS Code                                | <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a> |
-| Medium       | 5 Best Ways to Screenshot Your Code                                       | <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a> |
-| Medium       | Scaler Interview Experience for Technical Content Writer                  | <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a> |
-| Medium       | 5 Reasons Your Resume will get Rejected                                   | <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a> |
+├─▣ Boost Your Coding Productivity with Pieces - <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more</a>  
+├─▣ What is .gitignore - <a href="https://medium.com/@bhartik021/clean-lean-and-git-smart-unveiling-the-magic-of-gitignore-7f5c64741b6c">Read more</a>  
+├─▣ How to Add Custom Code Snippets in VS Code <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more</a>  
+├─▣ 5 Best Ways to Screenshot Your Code - <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more</a>  
+├─▣ Scaler Interview Experience for Technical Content Writer - <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more</a>  
+├─▣ 5 Reasons Your Resume will get Rejected - <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more</a>  
 │
 └───────────────────────────────▰▰▰
 
