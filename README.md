@@ -47,10 +47,10 @@
 
 ┌──┤ COMMUNITY INVOLVEMENT ├────────▰▰▰</span>
 │
-├─◈ <strong>GFG Student Chapter RTU Lead</strong>
-├─◈ <strong>Gold Microsoft Learn Student Ambassador</strong>
-├─◈ <strong>Google Women Techmakers Ambassador</strong>
-├─◈ <strong>MongoDB Community Creator</strong>
+├─◈ GFG Student Chapter RTU Lead
+├─◈ Gold Microsoft Learn Student Ambassador
+├─◈ Google Women Techmakers Ambassador
+├─◈ MongoDB Community Creator
 │
 └───────────────────────────────▰▰▰
 
