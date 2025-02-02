@@ -14,8 +14,7 @@
    
 ┌──┤ WHOAMI ├─────────▰▰▰</span>
 │
-├─▣ <strong>Software Engineer Intern</strong> @ miniOrange
-├─▣ <strong>Founder & Chapter Lead</strong> - GFG Student Chapter RTU
+├─▣ <strong>Software Engineer </strong> @ miniOrange
 ├─▣ <strong>Open Source & Community Enthusiast</strong>
 ├─▣ <strong>Technical Writer</strong>
 │
