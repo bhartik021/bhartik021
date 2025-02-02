@@ -14,7 +14,7 @@
    
 ┌──┤ WHOAMI ├─────────▰▰▰</span>
 │
-├─▣ <strong>Software Engineer </strong> @ miniOrange
+├─▣ <strong>Software Engineer</strong> @ miniOrange
 ├─▣ <strong>Open Source & Community Enthusiast</strong>
 ├─▣ <strong>Technical Writer</strong>
 │
