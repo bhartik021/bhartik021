@@ -1,5 +1,4 @@
 <h1 align="center">👩‍💻 Bharti Kumari</h1>
-<h3 align="center">Software Engineer | Open Source Contributor | Technical Writer</h3>
 
 ```js
 const bharti = {
@@ -8,13 +7,11 @@ const bharti = {
 
     code: ["C++", "Python", "JavaScript", "SQL", "HTML", "CSS"],
 
-    askMeAbout: [
-        "backend engineering",
-        "full-stack development",
-        "open source",
-        "technical writing",
-        "developer communities",
-        "Django + React projects"
+    aboutME: [
+        "Software Engineer",
+        "Technical Writer",
+        "Open Source Contributor",
+        "Community Builder"
     ],
 
     technologies: {
