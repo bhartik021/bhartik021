@@ -1,81 +1,71 @@
-<pre>     
-   ___   _      ___   _      ___   _      ___   _      ___   _   
-  [#]   |=|    [@]   |=|    [*]   |=|    [^]   |=|    [&]   |=|  
-   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|  
-  /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /   
-        |____________|____________|____________|____________|      
-                             |            |            |          
-                         ___  \_      ___  \_      ___  \_       
-                        [#]   |=|    [@]   |=|    [*]   |=|      
-                         '-`  |_|     '-`  |_|     '-`  |_|      
-                        /mmm/        /mmm/        /mmm/   
+<h1 align="center">👩‍💻 Bharti Kumari</h1>
+<h3 align="center">Software Engineer | Open Source Contributor | Technical Writer</h3>
 
-                            B H A R T I   K U M A R I       
-   
-┌──┤ WHOAMI ├─────────▰▰▰</span>
-│
-├─▣ <strong>Software Engineer</strong> @ miniOrange
-├─▣ <strong>Open Source & Community Enthusiast</strong>
-├─▣ <strong>Technical Writer</strong>
-│
-└───────────────────────────────▰▰▰
+```js
+const bharti = {
 
-┌──┤ TECHNICAL SKILLS ├────────────▰▰▰</span>
-│
-├─◈ <strong>Programming Languages/Web Technologies:</strong>  
-│      C/C++, HTML/CSS, JavaScript, Python
-├─◈ <strong>Frameworks/Libraries:</strong>  
-│      Bootstrap, ReactJS, Django 
-├─◈ <strong>Databases:</strong>  
-│      MongoDB (NoSQL), MySQL, PostgreSQL (SQL), Redis
-├─◈ <strong>CS Fundamentals:</strong>  
-│      Operating Systems, DBMS, Computer Networking, OOP
-├─◈ <strong>Tools/Technologies:</strong>  
-│      Git, GitHub, Bitbucket, Postman 
-│
-└───────────────────────────────▰▰▰
+    role: "Software Engineer at miniOrange",
 
-┌──┤ ACHIEVEMENTS ├────────────────▰▰▰</span>
-│
-├─◈ <strong>National Finalist</strong> in the Smart India Hackathon by MHRD (44,000+ teams)
-├─◈ <strong>Amazon ML Summer Mentee</strong> - among 40,000+ participants
-├─◈ <strong>Top 50</strong> in India - Samsung Solve for Tomorrow Hackathon (18,000+ teams)
-├─◈ <strong>Published 150+ Technical Articles</strong> with 50,000+ views
-│
-└───────────────────────────────▰▰▰
+    code: ["C++", "Python", "JavaScript", "SQL", "HTML", "CSS"],
 
-┌──┤ COMMUNITY INVOLVEMENT ├────────▰▰▰</span>
-│
-├─◈ GFG Student Chapter RTU Lead
-├─◈ Gold Microsoft Learn Student Ambassador
-├─◈ Google Women Techmakers Ambassador
-├─◈ MongoDB Community Creator
-│
-└───────────────────────────────▰▰▰
+    askMeAbout: [
+        "backend engineering",
+        "full-stack development",
+        "open source",
+        "technical writing",
+        "developer communities",
+        "Django + React projects"
+    ],
 
-┌──┤ CONNECT WITH ME ├─────────▰▰▰</span>
-│
-├─◈ <a href="https://www.linkedin.com/in/bhartik021">LinkedIn</a>
-├─◈ <a href="https://twitter.com/bhartik021">Twitter</a>
-├─◈ <a href="https://www.instagram.com/bhartik021/">Instagram</a>
-├─◈ <a href="https://medium.com/@bhartik021">Medium</a>
-│
-└───────────────────────────────▰▰▰
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap"]
+        },
 
-┌──┤ BLOG POSTS ├──────────▰▰▰</span>
-│
-├─▣ <strong>Boost Your Coding Productivity with Pieces - AI for Developers</strong>  
-│      <a href="https://medium.com/@bhartik021/boost-your-coding-productivity-with-pieces-ai-for-developers-eddc46a8f6ab">Read more...</a>
-├─▣ <strong>Top Visual Studio Code Plugins to Boost Productivity and Workflow in 2023</strong>  
-│      <a href="https://medium.com/@bhartik021/productivity-tools-to-improve-your-developer-workflow-ecf8e9e097b8">Read more...</a>
-├─▣ <strong>How to Add Custom Code Snippets in VS Code</strong>  
-│      <a href="https://medium.com/@bhartik021/how-to-add-custom-code-snippets-in-vs-code-add-your-own-vs-code-snippets-6d37d70af24f">Read more...</a>
-├─▣ <strong>5 Best Ways to Screenshot Your Code</strong>  
-│      <a href="https://medium.com/@bhartik021/5-best-ways-to-screenshot-your-code-74459471a25f">Read more...</a>
-├─▣ <strong>Scaler Interview Experience for Technical Content Writer</strong>  
-│      <a href="https://medium.com/@bhartik021/scaler-interview-experience-for-technical-content-writer-646b38394416">Read more...</a>
-├─▣ <strong>5 Reasons Your Resume Will Get Rejected</strong>  
-│      <a href="https://medium.com/@bhartik021/5-reasons-your-resume-will-get-rejected-cc78993c1343">Read more...</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+        backEnd: {
+            python: ["Django"],
+        },
+
+        Tools: ["Git", "GitHub", "Bitbucket", "Postman", "VS Code"],
+
+
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+
+        fundamentals: [
+            "Operating Systems",
+            "DBMS",
+            "Computer Networks",
+            "OOP"
+        ]
+    },
+
+    community: {
+        roles: [
+            "Gold Microsoft Learn Student Ambassador",
+            "Google Women Techmakers Ambassador",
+            "MongoDB Community Creator",
+            "GFG Student Chapter Lead (RTU)",
+            "GSSoC Mentor"
+        ]
+    },
+
+    achievements: {
+        hackathons: [
+            "National Finalist – Smart India Hackathon (44,000+ teams)",
+            "Top 50 – Samsung Solve For Tomorrow (18,000+ teams)"
+        ],
+        writing: "Published 150+ technical articles with 50,000++ views",
+        programs: [
+            "Amazon ML Summer School Mentee"
+        ]
+    },
+
+    projectsExperience: [
+        "Cognitive Vision App using Azure AI",
+        "Location Finder App (Python + React)",
+        "Article Summarizer" 
+    ],
+
+    funFact: "I break things to understand them — and then write technical articles about it ✍️"
+};
